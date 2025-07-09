@@ -35,3 +35,8 @@ img{
   margin: 0 auto;
   
 }
+.gallery-img{
+  display:block;
+  margin:20px auto;
+  width:300px;
+  height:auto;
