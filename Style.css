@@ -1,0 +1,37 @@
+h1{
+  color: deeppink;
+  text-align: center;
+  font-size: 80px;
+  font-family: cursive
+  
+}
+.pink-text{
+  color:lightpink;
+  text-align: center;
+  font-family: cursive;
+  font-size: 40px;
+  
+
+}
+.my-button{
+  display: block;
+  margin: 20px auto;
+  padding: 20px;
+  border-top: 20px;
+  border-right: 20px;
+  border-bottom: 20px;
+  border-left: 20px
+}
+.black-text{
+  color:black;
+  text-align: center;
+  font-family: cursive;
+  font-size:45px;
+}
+img{
+  width:300px;
+  height:auto;
+  display:block;
+  margin: 0 auto;
+  
+}
